@@ -6,7 +6,7 @@
 ### To delete files:
 #### make clean
 ## Project Description
-### The objective was to make a MSP430 into a toy and have fun with it. To
+The objective was to make a MSP430 into a toy and have fun with it. To
 make it a toy, I chose popular songs that most people are familiar with so
 they could play the song. The purpose was, for those who use the toy, to play
 the beats according to the rythm of the songs that I chose. The trick is that
